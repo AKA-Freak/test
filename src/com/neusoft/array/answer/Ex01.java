@@ -16,7 +16,6 @@ public class Ex01 {
 			for(int j=i+1;j<a.length;j++) {
 				if(temp==a[j]) {
 					int wjc =1;
-
 					flag=true;
 					break;
 					}
